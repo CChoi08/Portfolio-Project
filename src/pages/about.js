@@ -48,13 +48,13 @@ const about = () => {
                     <div className='col-span-3 flex flex-col  items-start justify-start xl:col-span-4 md:order-2 md:col-span-8'>
                         <h2 className='mb-4 text-lg font-bold uppercase text-dark/75 dark:text-light/75'>About Me</h2>
                         <p className='font-medium'>
-                            Hello, my name is Christopher Choi, and I'm a full-stack web developer with a strong passion 
+                            Hello, my name is Christopher Choi, and I&apos;m a full-stack web developer with a strong passion 
                             for creating exceptional digital experiences that are both visually appealing and highly 
                             functional. I recently graduated from Coding Dojo and am constantly seeking new opportunities 
                             to learn and enhance my skills.
                         </p>
                         <p className='font-medium my-4'>
-                            In my view, good design isn't just about aesthetics, but also involves solving problems and 
+                            In my view, good design isn&apos;t just about aesthetics, but also involves solving problems and 
                             providing intuitive, user-friendly experiences.
                         </p>
                         <p className='font-medium'>
