@@ -10,6 +10,7 @@ Portfolio website showcasing skills and experience in software development
 
 1. JavaScript
 2. React
-3. Framer-Motion
-4. Tailwind CSS
-5. AWS (Deployment Coming Soon)
+3. NodeJS
+4. Framer-Motion
+5. Tailwind CSS
+6. AWS (Deployment Coming Soon)
