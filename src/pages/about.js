@@ -77,7 +77,7 @@ const about = () => {
                     </div>
                     <div className='col-span-2 flex flex-col items-end justify-around xl:col-span-8 xl:flex-row xl:items-center md:order-3'>
                         <div className='flex flex-col items-end justify-center'>
-                            <span className='inline-block text-3xl font-bold text-end sm:text-2xl xs:text-xl sm:text-start'>
+                            <span className='inline-block text-3xl font-bold text-end sm:text-2xl xs:text-xl'>
                                 San Francisco, Bay Area
                             </span>
                             <h2 className='text-xl font-medium capitalize text-dark/75 dark:text-light/75 text-end md:text-lg sm:text-base sm:justify-start'>location</h2>
