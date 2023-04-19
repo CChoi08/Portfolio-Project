@@ -15,4 +15,4 @@ Portfolio website showcasing skills and experience in software development. Resp
 3. NodeJS
 4. Framer-Motion
 5. Tailwind CSS
-6. AWS (Deployment Coming Soon)
+6. AWS Amplify
