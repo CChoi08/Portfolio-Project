@@ -2,7 +2,8 @@
 
 ## About
 [christopherc.app](https://www.christopherc.app/) <br />
-Portfolio website showcasing skills and experience in software development. Responsive with all devices and incorporates a light/dark mode.
+Portfolio website showcasing skills and experience in software development. <br />
+Responsive and incorporates a light/dark mode.
 
 ## Screenshots
 ![portfolio](https://user-images.githubusercontent.com/115055374/232716402-19e86438-4676-490f-90c6-46102122ca8c.jpeg)
