@@ -45,7 +45,7 @@ export default function Home() {
                 md:p-2 md:px-4 md:text-base
                 '
                 download={true}
-                >Resume <LinkArrow className={"w-6 ml-1 sm:w-4.5 sm:ml-0.5"} />
+                >Resume <LinkArrow className={"w-6 ml-1 sm:w-4 sm:ml-0.5"} />
                 </Link>
                 <Link href="mailto:C.Choi7895@gmail.com" target={"_blank"}
                 className='ml-4 text-lg font-medium capitalize text-dark underline dark:text-light
