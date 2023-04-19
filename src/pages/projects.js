@@ -127,8 +127,8 @@ const projects = () => {
                       img={project2}
                       summary="Showcases my very own portfolio website with seemless transitions, and aesthetic navigation and 
                       organization."
-                      link="/"
-                      github="/"
+                      link="https://www.christopherc.app/"
+                      github="https://github.com/CChoi08/Portfolio-Project"
                       type="Featured Project"
                     />
                   </div>
