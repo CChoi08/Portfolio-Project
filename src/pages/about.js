@@ -77,22 +77,22 @@ const about = () => {
                     </div>
                     <div className='col-span-2 flex flex-col items-end justify-around xl:col-span-8 xl:flex-row xl:items-center md:order-3'>
                         <div className='flex flex-col items-end justify-center'>
-                            <span className='inline-block text-3xl font-bold text-end sm:text-2xl xs:text-xl'>
+                            <span className='inline-block text-3xl font-bold text-end sm:text-2xl xs:text-xl sm:text-start'>
                                 San Francisco, Bay Area
                             </span>
-                            <h2 className='text-xl font-medium capitalize text-dark/75 dark:text-light/75 text-end md:text-lg sm:text-base '>location</h2>
+                            <h2 className='text-xl font-medium capitalize text-dark/75 dark:text-light/75 text-end md:text-lg sm:text-base sm:text-start'>location</h2>
                         </div>
                         <div className='flex flex-col items-end justify-center'>
-                            <span className='inline-block text-3xl font-bold xs:text-2xl'>
+                            <span className='inline-block text-3xl font-bold xs:text-2xl sm:text-start'>
                                 <AnimatedNumbers value={5} />+
                             </span>
-                            <h2 className='text-xl font-medium capitalize text-dark/75 dark:text-light/75 text-end md:text-lg sm:text-base'>projects completed</h2>
+                            <h2 className='text-xl font-medium capitalize text-dark/75 dark:text-light/75 text-end md:text-lg sm:text-base sm:text-start'>projects completed</h2>
                         </div>
                         <div className='flex flex-col items-end justify-center'>
-                            <span className='inline-block text-3xl font-bold xs:text-2xl'>
+                            <span className='inline-block text-3xl font-bold xs:text-2xl sm:text-start'>
                                 <AnimatedNumbers value={1} />+
                             </span>
-                            <h2 className='text-xl font-medium capitalize text-dark/75 dark:text-light/75 text-end md:text-lg sm:text-base'>years of experience</h2>
+                            <h2 className='text-xl font-medium capitalize text-dark/75 dark:text-light/75 text-end md:text-lg sm:text-base sm:text-start'>years of experience</h2>
                         </div>
                     </div>
                 </div>
